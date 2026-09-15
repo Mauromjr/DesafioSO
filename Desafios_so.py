@@ -120,6 +120,3 @@ titulo("10. INFORMAÇÕES DO SISTEMA OPERACIONAL")
 print(f"Sistema operacional: {platform.system()}")
 print(f"Versão: {platform.version()}")
 print(f"Arquitetura: {platform.machine()}")
-
-
-print("\nDESAFIO CONCLUÍDO COM SUCESSO!")
